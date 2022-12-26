@@ -9,7 +9,7 @@ Download the project/ clone the project from github
 Open index.html (Using VScode's live server for optimal performance)
 
 ### Hosting Link
-https://azwadfawadhasan.github.io/CSE309Assignment3/
+https://azwadfawadhasan.github.io/WeatherApp/
 
 ### Pictures and Videos
 
