@@ -1,4 +1,4 @@
-# CSE309Assignment3
+# WeatherApp (openWeatherMap_API_CSE309Assignment3) 
 This repo contains the assignment 3 of webapp. It contains a weather app which uses OpenWeatherMap's api (ver 2.5)
 
 ## About
